@@ -8,6 +8,8 @@ The File Merger Tool is a Python-based graphical user interface (GUI) applicatio
 a specified directory into a single output file. For each file merged, the tool writes its relative path at the beginning of its
 content in the output file, followed by a separator line.
 
+![image](https://github.com/user-attachments/assets/85869d50-ebc2-407b-a277-047a1bc1c906)
+
 ## Features
 
 - **Recursive Search**: Merges text files from the selected directory and all its subdirectories.
