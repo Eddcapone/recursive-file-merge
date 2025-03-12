@@ -1,6 +1,6 @@
-#Short Description:
+# Short Description:
 
-	Merges content of all files in the given folder, including child directories, into a single file.
+Merges content of all text files in the target folder, including child directories, into a single file.
 
 # File Merger Tool
 
